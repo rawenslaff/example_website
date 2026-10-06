@@ -1,0 +1,7 @@
+---
+title: "DATA385 Website"
+---
+
+The website example I chose was the [Clickable Weather Forecast Map](https://cscheid.github.io/quarto-dashboard-ojs-examples/weather.html) Observable. 
+
+I thought this could be a good template for representing clusters of public transportation data on a map.
